@@ -1,0 +1,69 @@
+Topic : Atlassian
+
+	Question : I’ve Increased session timeout in the plugin but the users are still getting signed out again and again.
+	Link : https://faq.miniorange.com/knowledgebase/issue-for-session-time-out/
+
+
+	Question : I’ve multiple atlassian apps on same server but when I switch from one app to another, I’m signed out from the previous app. How to avoid this?
+	Link : https://faq.miniorange.com/knowledgebase/ive-multiple-atlassian-apps-on-same-server-but-when-i-switch-from-one-app-to-another-im-signed-out-from-the-previous-app-how-to-avoid-this/
+
+
+	Question : Can I extend my free trial?
+	Link : https://faq.miniorange.com/knowledgebase/extend-free-trial/
+
+	Question : All my new users are getting assigned to one group, how can I prevent that?
+	Link : https://faq.miniorange.com/knowledgebase/assigning-group/
+
+
+Topic : Drupal
+
+	Question : I want to configure SSO for Drupal but the applications list in the admin interface doesn’t have Drupal as an option for an app. How can I add application for Drupal?
+	Link : https://faq.miniorange.com/knowledgebase/configure-sso-drupal-applications/
+
+
+	Question : Why should I register?
+	Link : https://faq.miniorange.com/knowledgebase/why-should-i-register-2/
+
+
+	Question : How to check or download SAML Request/Response using SAML Tracer Logs?
+	Link : https://faq.miniorange.com/knowledgebase/check-download-saml-response-using-saml-tracer-logs/
+
+
+	Question : How do I download the premium plugin that I have already purchased?
+	Link : https://faq.miniorange.com/knowledgebase/download-premium-plugin-already-purchased-2/
+
+
+Topic : General
+
+	Question : How to enable PHP cURL extension? (Pre-requisite)
+	Link : https://faq.miniorange.com/knowledgebase/enable-phpcurl-extension/
+
+
+	Question : I want to change my email address registered with miniOrange.
+	Link : https://faq.miniorange.com/knowledgebase/change-registered-email-address/
+
+
+	Question : I need invoice for my payment.
+	Link : https://faq.miniorange.com/knowledgebase/need-invoice-payment/
+
+
+	Question : I forgot the password of my miniOrange account. How can I reset it?
+	Link : https://faq.miniorange.com/knowledgebase/reset-password/
+
+
+Topic : Licensing
+
+	Question : I just purchased a Premium Plan. Where do I find my premium plugin and license key?
+	Link : https://faq.miniorange.com/knowledgebase/premium-plugin-installation/
+
+
+	Question : I just made payment for the paid plan. I still see that I am on the free plan. What should I do?
+	Link : https://faq.miniorange.com/knowledgebase/upgrade-license-plan/
+
+
+	Question : I have purchased a premium license for single instance of the Joomla SAML Plugin and used it on my test site. How do I free the license key to use it on my production site?
+	Link : https://faq.miniorange.com/knowledgebase/free-premium-license-key-for-production-site/
+
+
+	Question : I need to purchase a new license key. How do I do that?
+	Link : https://faq.miniorange.com/knowledgebase/purchase-license-key/

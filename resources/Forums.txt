@@ -1,0 +1,42 @@
+Directory : Captive Portal
+Topics : 45
+Posts : 52
+Link : https://forum.miniorange.com/forums/forum/captive-portal/captive-portal/
+
+Directory : Single Sign On
+Topics : 148
+Posts : 444
+Link : https://forum.miniorange.com/forums/forum/single-sign-on/single-sign-on/
+
+Directory : LDAP Authentication 
+Topics : 27
+Posts : 94
+Link : https://forum.miniorange.com/forums/forum/ldap-authentications/ldap-authentication/
+
+Directory : OAuth Authentication & API’s
+	Sub-directory : API Authentication
+	Topics : 6
+	Posts : 17
+	Link : https://forum.miniorange.com/forums/forum/oauth-authentication-apis/api-authentication/
+
+	Sub-directory : OAuth Client
+	Topics : 37
+	Posts : 97
+	Link : https://forum.miniorange.com/forums/forum/oauth-authentication-apis/oauth-client/
+
+	Sub-directory : OAuth Server
+	Topics : 7
+	Posts : 17
+	Link : https://forum.miniorange.com/forums/forum/oauth-authentication-apis/oauth-server/
+
+Link : https://forum.miniorange.com/forums/forum/oauth-authentication-apis/
+
+Directory : Two-Factor Authentication
+Topics : 17
+Posts : 32
+Link : https://forum.miniorange.com/forums/forum/two-factor-authentication/two-factor-authentication/
+
+Directory : Social Login
+Topics : 7
+Posts : 15
+Link : https://forum.miniorange.com/forums/forum/social-login/social-login/

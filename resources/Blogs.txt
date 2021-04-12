@@ -1,0 +1,41 @@
+Title : Oracle EBS SSO Integration with Azure AD
+Content : Oracle EBS SSO solution by miniOrange enables Single Sign-On between Oracle EBS and  Azure AD with the highest security. In simpler terms, you'll log in to your Oracle EBS Instance using your Azure AD credentials. You don’t have to maintain a username - password for  Azure AD  and Oracle EBS differently. Oracle EBS SSO is [...]
+Concepts : AZURE AD, Oracle EBS SSO, Oracle Security, Oracle SSO, SSO
+Date : MAR 25
+Link : https://blog.miniorange.com/oracle-ebs-sso-integration-with-azure-ad/
+
+Title : What is Malware? How Anti Malware works?
+Content : Malware is a catch-all term for any type of malicious software designed to infiltrate or exploit any programmable device, service, or network without the owner's informed consent. Malware can infect computers and devices in several ways and comes in a number of forms, just a few of which include Viruses, Worms, Trojans, OWASP attacks, Brute [...]
+Concepts : Anti-Malware, Malware Scanner, OWASP Attacks, Security, Trojans
+Date : MAR 21
+Link : https://blog.miniorange.com/what-is-malware-viruses-worms-trojans/
+
+Title : What is Shibboleth?
+Content : Shibboleth is a web-based software tool that supports single sign-on (SSO) between two applications or between two organizations. It is an open-source tool and mainly used for Single Sign-On (SSO) using SAML protocol. It can not implement SSO with protocols such as OAuth or OpenID connect. It helps sites make informed authorization decisions for accessing [...]
+Concepts :  SAML Authentication, Shibboleth SSO, Single Sign-On, SSO
+Date : MAR 18
+Link : https://blog.miniorange.com/what-is-shibboleth/
+
+Title : What is Page and Post Restriction ?
+Content : Page and Post Restriction plugin for WordPress is a perpetual, and stable plugin that helps you limit and secure admittance to your WordPress site in various manners.  Page restrictions allow you to control who can view and/or edit individual pages. You can add restrictions for individual pages or for WordPress groups. Multiple roles could be [...]
+Concepts : Content Restriction, Page Restriction, Post Restriction, SAML Authentication
+Date : MAR 08
+Link : https://blog.miniorange.com/wordpress-page-post-restriction-addon/
+
+Title : Migrating from RSA Access Manager to miniOrange Identity Platform
+Content : With the news that ‘RSA Access Manager’ (and previously known as ClearTrust), would reach end-of-life (EOL) status in June 2021, RSA Access Manager customers are looking to migrate to another Identity and Access Management (IAM) platform. Migrations are most successful when handled with the best methods and planned approach. miniOrange is taking all these issues [...]
+Concepts :  Adaptive Authentication, Multi-factor Authentication, RSA Secure ID, RSA SECURITY, Two-factor Authentication
+Date : MAR 05
+Link : https://blog.miniorange.com/oracle-ebs-sso-integration-with-azure-ad/
+
+Title : What is G Suite IP Restriction? Enable IP Restriction for G Suite
+Content : G Suite IP Restriction - Introduction Nowadays Cloud Technology is considered paramount everywhere on the planet. The rationale behind this is the emerging growth of Cloud Technology in multiple businesses and organizations to manage Data / Services which helps them to streamline their organization process. G Suite is one of the favored user-friendly Cloud Technology, [...]
+Concepts :  IP Restriction, Login, Security
+Date : MAR 03
+Link : https://blog.miniorange.com/what-is-gsuite-ip-restriction/
+
+Title : Atlassian Server is gone but Marketplace Add-ons stays with you !
+Content : According to the Atlassian announcement that came out in October 2020, new server license sales have come to end on 2nd February 2021. Server support for existing licenses will continue to be offered by Atlassian until Feb 2024. However, maintenance and support pricing would increase for server licenses. Atlassian is providing all its server customers [...]
+Concepts : Login, Security, Single Sign-On, SSO
+Date : MAR 01
+Link : https://blog.miniorange.com/atlassian-server-add-ons-stays-with-you/
