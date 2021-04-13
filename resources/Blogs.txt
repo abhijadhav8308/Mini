@@ -26,7 +26,7 @@ Title : Migrating from RSA Access Manager to miniOrange Identity Platform
 Content : With the news that ‘RSA Access Manager’ (and previously known as ClearTrust), would reach end-of-life (EOL) status in June 2021, RSA Access Manager customers are looking to migrate to another Identity and Access Management (IAM) platform. Migrations are most successful when handled with the best methods and planned approach. miniOrange is taking all these issues [...]
 Concepts :  Adaptive Authentication, Multi-factor Authentication, RSA Secure ID, RSA SECURITY, Two-factor Authentication
 Date : MAR 05
-Link : https://blog.miniorange.com/oracle-ebs-sso-integration-with-azure-ad/
+Link : https://blog.miniorange.com/succeed-rsa-secureid-with-miniorange-mfa-amfa/
 
 Title : What is G Suite IP Restriction? Enable IP Restriction for G Suite
 Content : G Suite IP Restriction - Introduction Nowadays Cloud Technology is considered paramount everywhere on the planet. The rationale behind this is the emerging growth of Cloud Technology in multiple businesses and organizations to manage Data / Services which helps them to streamline their organization process. G Suite is one of the favored user-friendly Cloud Technology, [...]
