@@ -1,0 +1,145 @@
+*{
+    box-sizing: border-box;
+}
+
+section + section{
+    margin: 10vmin 0vmin 10vmin 0vmin;
+ }
+
+header img{
+    width:240px;
+    height:50px;
+}
+
+.heading{
+    height:10vmin;
+    margin: 8vmin 0vmin;
+    background-color: #09a1ed;
+}
+
+.heading h1{
+    padding-top:5px;
+}
+
+ /*  Navigation Bar  */
+
+.navbar .in .nav li {
+    display: block;
+    float: none;
+    width:100%;
+ }
+
+header nav img{
+    margin-left:1rem;
+}
+
+.navbar{
+    background-color: #f8f9fa!important;
+    box-shadow: 0px 1px 10px #999;
+}
+
+.navbar-nav a{
+    font-size: 1.2rem;
+    margin: 0px 10px;
+    color:black;
+}
+
+.navbar-nav a:hover{
+    border-bottom: 2.5px solid black;
+}
+
+ /*  Video Section */
+
+.video_section h1{
+    padding-top:1.5vmin;
+    font-size: 2em;
+}
+
+.video_section .heading{
+    margin-top:14vmin;
+    margin-bottom: 2vmin;
+}
+
+.vid-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.vid-container .vid-div{
+    width:30vmax;
+    height:50vmin;
+    border-bottom: 0.5px solid grey;
+    border-left: 0.5px solid grey;
+    border-right:0.5px dotted grey;
+}
+
+.vid-container .vid-div iframe{
+    width: 100%;
+    height:37vmin;
+}
+
+.vid-container .vid-div h6{
+    padding: 0px 15px;
+}
+
+ /*  Blogs Section*/
+
+.blog{
+    background-color: #fafafa;
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    margin:20px 10px;
+    padding:15px;
+    box-shadow: 0px 1px 10px #999;
+ }
+
+.blog h5{
+     margin-left:0px;
+ }
+
+ /* Document Section*/
+
+.doc_section .container-fluid .card{
+    margin:2vmin;
+    box-shadow: 0px 1px 10px #999;
+}
+
+/* FAQ Section*/
+
+.faq_section .topic i{
+    display:inline;
+}
+
+.faq_section .container-fluid{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/* Forum Section*/
+
+.container-heading{
+    background-color: #34c0eb;
+}
+
+.forum_section h3,h5{
+    margin-left:1rem;
+}
+
+.container-body  h5{
+    margin-top:1.5rem;
+}
+
+.forum_section .container-body{
+    border-bottom: 1px solid black;
+}
+
+.forum_section .directory-title{
+    border-right: 1px solid black;
+}
+
+.container-body .directory-statistics p{
+    margin-left:1rem;
+    margin-top:1rem;
+}
