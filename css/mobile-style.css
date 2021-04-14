@@ -32,6 +32,10 @@
     }
 
     @media only screen and (max-width:425px){
+        .heading h1{
+            padding-top:8px;
+        }
+
         .video_section .heading{
             height:15vmin;
             margin-top: 25vmin;
