@@ -1,7 +1,12 @@
 @media only screen and (max-width:768px){
     .heading{
         height:15vmin;
-        margin: 8vmin 0vmin;
+        margin: 10vmin 0vmin;
+    }
+
+    
+    .heading h1{
+        padding-top:20px;
     }
 
     .vid-container{
@@ -27,6 +32,11 @@
     }
 
     @media only screen and (max-width:425px){
+        .video_section .heading{
+            height:15vmin;
+            margin-top: 25vmin;
+        }
+
         .vid-container{
             display:flex;
             flex-direction: column;
